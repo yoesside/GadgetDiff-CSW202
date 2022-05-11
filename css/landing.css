@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 400;
+	src: url(../pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+}
+
+body{
+	font-family: 'Poppins';
+}
+
+.navbar-dark{
+	background-color:rgb(84 140 168);
+	padding-left:59px;
+	height:122px;
+}
+
+.container-l{
+	background-image:url("../Cover page.png");
+}
+.content-l{
+	padding-top:160px;
+	padding-left:59px;
+	padding-bottom:180px
+}
